@@ -11,6 +11,7 @@
 		F166E8F62AB1795B00C9D941 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166E8F52AB1795B00C9D941 /* ContentView.swift */; };
 		F166E8F82AB1795C00C9D941 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F166E8F72AB1795C00C9D941 /* Assets.xcassets */; };
 		F166E8FB2AB1795C00C9D941 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F166E8FA2AB1795C00C9D941 /* Preview Assets.xcassets */; };
+		F166E9022AB3C85E00C9D941 /* CustomTextFieldStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F166E9012AB3C85E00C9D941 /* CustomTextFieldStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F166E8F52AB1795B00C9D941 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F166E8F72AB1795C00C9D941 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F166E8FA2AB1795C00C9D941 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F166E9012AB3C85E00C9D941 /* CustomTextFieldStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFieldStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F166E8F32AB1795B00C9D941 /* Design_M1L5_TextFieldStylesApp.swift */,
 				F166E8F52AB1795B00C9D941 /* ContentView.swift */,
+				F166E9012AB3C85E00C9D941 /* CustomTextFieldStyle.swift */,
 				F166E8F72AB1795C00C9D941 /* Assets.xcassets */,
 				F166E8F92AB1795C00C9D941 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				F166E8F62AB1795B00C9D941 /* ContentView.swift in Sources */,
 				F166E8F42AB1795B00C9D941 /* Design_M1L5_TextFieldStylesApp.swift in Sources */,
+				F166E9022AB3C85E00C9D941 /* CustomTextFieldStyle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
